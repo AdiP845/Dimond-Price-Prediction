@@ -1,0 +1,5 @@
+[ 2024-01-07 17:23:32,209 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-01-07 17:23:33,249 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-01-07 17:23:33,249 ] 224 werkzeug - INFO -  * Debugger PIN: 961-306-025
+[ 2024-01-07 17:24:40,373 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\adipa\\anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+[ 2024-01-07 17:24:40,413 ] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\adipa\\anaconda3\\Lib\\site-packages\\_pytest\\fixtures.py', reloading

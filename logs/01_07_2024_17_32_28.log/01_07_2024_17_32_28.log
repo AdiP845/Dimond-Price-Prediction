@@ -1,0 +1,31 @@
+[ 2024-01-07 17:32:28,353 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-01-07 17:32:29,547 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-01-07 17:32:29,547 ] 224 werkzeug - INFO -  * Debugger PIN: 961-306-025
+[ 2024-01-07 17:32:37,283 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:32:37] "GET / HTTP/1.1" 200 -
+[ 2024-01-07 17:32:41,564 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:32:41] "GET / HTTP/1.1" 200 -
+[ 2024-01-07 17:33:02,108 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:33:02] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:33:19,311 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:33:19,457 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:33:19] "POST /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:34:53,919 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:34:53] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:34:56,271 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:34:56] "GET / HTTP/1.1" 200 -
+[ 2024-01-07 17:35:10,791 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:35:10] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:35:51,992 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:35:51] "GET / HTTP/1.1" 200 -
+[ 2024-01-07 17:36:00,594 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:36:00] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:36:21,352 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:36:21,372 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:36:21] "POST /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:39:56,520 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:39:56] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:40:00,706 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:40:00] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:40:02,711 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:40:02] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:40:24,262 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:40:24,281 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:40:24] "POST /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:41:53,758 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:41:53,792 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:41:53] "POST /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:42:37,863 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:42:37,891 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:42:37] "POST /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:43:30,008 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:43:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2024-01-07 17:43:30,085 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:43:30] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-01-07 17:43:30,085 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:43:30] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-01-07 17:43:30,127 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:43:30] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-01-07 17:43:30,140 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:43:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-01-07 17:43:52,967 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:43:52,995 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:43:52] "POST /predict HTTP/1.1" 200 -

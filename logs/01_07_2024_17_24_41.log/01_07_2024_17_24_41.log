@@ -1,0 +1,12 @@
+[ 2024-01-07 17:24:42,209 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-01-07 17:24:43,309 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-01-07 17:24:43,309 ] 224 werkzeug - INFO -  * Debugger PIN: 961-306-025
+[ 2024-01-07 17:28:30,667 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:28:30] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:29:11,780 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:29:12,043 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:29:12] "POST /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:31:06,772 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:31:06,799 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:31:06] "POST /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:31:11,536 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:31:11] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:31:18,996 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:31:18] "GET /predict HTTP/1.1" 200 -
+[ 2024-01-07 17:31:39,095 ] 66 root - INFO - Dataframe Gathered
+[ 2024-01-07 17:31:39,115 ] 224 werkzeug - INFO - 127.0.0.1 - - [07/Jan/2024 17:31:39] "POST /predict HTTP/1.1" 200 -
